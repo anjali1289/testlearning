@@ -1,0 +1,47 @@
+[{
+  "CreationTime": "2019-03-19T03:54:52",
+  "Id": "199f9743-07b4-47cd-f498-08d6ac1ea453",
+  "Operation": "MoveToDeletedItems",
+  "OrganizationId": "96cde042-5a91-450a-bbde-aaa80fa334c4",
+  "RecordType": 3,
+  "ResultStatus": "Succeeded",
+  "UserKey": "100300009046EC0F",
+  "UserType": 0,
+  "Version": 1,
+  "Workload": "Exchange",
+  "UserId": "sreeraj.gopinathan@paladion.net",
+  "ClientIPAddress": "[113.193.224.6]:25796",
+  "ClientInfoString": "Client=MSExchangeRPC",
+  "ClientProcessName": "OUTLOOK.EXE",
+  "ClientVersion": "16.0.10730.20280",
+  "ExternalAccess": false,
+  "InternalLogonType": 0,
+  "LogonType": 0,
+  "LogonUserSid": "S-1-5-21-2362864751-3203207868-986437865-6779481",
+  "MailboxGuid": "30cb1f47-db13-42d3-9ddd-1a58378565bb",
+  "MailboxOwnerSid": "S-1-5-21-2362864751-3203207868-986437865-6779481",
+  "MailboxOwnerUPN": "sreeraj.gopinathan@paladion.net",
+  "OrganizationName": "paladionITsecurity.onmicrosoft.com",
+  "OriginatingServer": "SG2PR01MB2902 (15.20.1709.009)\r\n",
+  "AffectedItems": [
+    {
+      "Attachments": "pastedImage.png (47050b); Outlook-https___ww.png (21647b); Outlook-https___ww.png (2923b); Outlook-https___ww.png (2990b); Outlook-https___ww.png (2734b)",
+      "Id": "RgAAAADLON1s7SX4To3B3Ye5j6WNBwBH3dl79zx+QKwDUcn01tHUAAAAAAEMAABH3dl79zx+QKwDUcn01tHUAAOjYcpDAAAA",
+      "InternetMessageId": "<SG2PR01MB310946D0E21A53086B6F6BC8FB400@SG2PR01MB3109.apcprd01.prod.exchangelabs.com>",
+      "ParentFolder": {
+        "Id": "LgAAAADLON1s7SX4To3B3Ye5j6WNAQBH3dl79zx+QKwDUcn01tHUAAAAAAEMAAAB",
+        "Path": "\\Inbox"
+      },
+      "Subject": "Re: !!Help!! How to show SOC Visibility?"
+    }
+  ],
+  "CrossMailboxOperation": false,
+  "DestFolder": {
+    "Id": "LgAAAADLON1s7SX4To3B3Ye5j6WNAQBH3dl79zx+QKwDUcn01tHUAAAAAAEKAAAB",
+    "Path": "\\Deleted Items"
+  },
+  "Folder": {
+    "Id": "LgAAAADLON1s7SX4To3B3Ye5j6WNAQBH3dl79zx+QKwDUcn01tHUAAAAAAEMAAAB",
+    "Path": "\\Inbox"
+  }
+}]
